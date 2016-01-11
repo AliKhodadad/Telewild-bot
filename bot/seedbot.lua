@@ -225,7 +225,7 @@ function create_config( )
     realm = {76325106},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [tnx for seed team
-    and @Xx_ADMIN_DARKNESS_TM_xX],
+    and @Telewild_Admin],
     help_text = [[
 Commands list :
 
