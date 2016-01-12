@@ -222,7 +222,7 @@ function create_config( )
     },
     sudo_users = {153416374,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
-    realm = {76325106},--Realms Id
+    realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [tnx for seed team
     and @Telewild_Admin],
